@@ -19,7 +19,8 @@ import com.qmetry.Calculator;
 
 public class CalculatorSteps {
 
-    private Calculator calculator;
+    //Added a comment for git checking
+	private Calculator calculator;
     
     private Scenario scenario;
 
