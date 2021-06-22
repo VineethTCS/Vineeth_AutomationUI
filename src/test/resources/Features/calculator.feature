@@ -13,7 +13,7 @@ Feature: Calculator
    Examples: 
       | num1 | num2 | total |
       |    2 |    3 |     5 |
-      |   10 |   16 |    26 |
+      |   10 |   16 |    25 |
     
   Scenario Outline: Substract two numbers
     Given I have a calculator
